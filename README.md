@@ -13,3 +13,5 @@ Front-end Developer with 2 years of experience building dynamic and responsive w
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
 </p>
 
+## Featured Projects
+[CoThink](https://cothink.az/) - Educational platform built with React ,Tailwind CSS and PHP.
