@@ -15,5 +15,5 @@ Front-end Developer with 2 years of experience building dynamic and responsive w
 
 ## Featured Projects
 - [CoThink](https://cothink.az/) - Educational platform built with React ,Tailwind CSS and PHP.
-- [Real-time Chat](https://chat-app-bxnf.vercel.app/)
+- [Real-time Chat](https://chat-app-bxnf.vercel.app/) - This project demonstrates live messages, audio recording, and responsive design.
 - [Accesories.az](https://accessories-az.onrender.com/) - A modern, full responsive e-commerce website built with the MERN stack.
